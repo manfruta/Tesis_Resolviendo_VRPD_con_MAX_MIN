@@ -1,0 +1,16 @@
+folium==0.15.0
+geopandas==0.14.1
+igraph==0.11.2
+mapclassify==2.6.1
+matplotlib-inline==0.1.6
+networkx==3.2.1
+numpy==1.26.2
+osmnx==1.7.1
+pandas==2.1.3
+pandoc==2.3
+pandocfilters==1.5.0
+pyrosm==0.6.2
+scikit-learn==1.3.2
+scipy==1.11.4
+scikit-optimize==0.9.0
+
